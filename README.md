@@ -1,4 +1,4 @@
-🚀 #Projeto Flutter#
+Projeto Flutter
 Este é o ponto de partida do seu novo aplicativo incrível desenvolvido com Flutter! Este documento vai te guiar desde a instalação básica até a execução do projeto no VS Code.
 
 ⚠️ Aviso Importante: Instalação do SDK
